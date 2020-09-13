@@ -8,6 +8,8 @@
 
 A quiz app that tests your general knowledge. As one of the most popular types of apps nowadays.
 
+Learnings' Courtesy: @londonappbrewery & @google
+
 ## What I have learnt
 
 - Modularising your code into separate classes.
