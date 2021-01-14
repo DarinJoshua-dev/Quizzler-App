@@ -3,12 +3,13 @@
 
 ## Create an application by reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects using Flutter and Dart. 
 
-
-## What I created
+### What I created
 
 A quiz app that tests your general knowledge. As one of the most popular genre of application nowadays, this app is filled with fun questions to quiz yourself.
 
-## What I have learnt
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
+
+### What I have learnt
 
 - Modularising your code into separate classes.
 - Dart classes and objects.
