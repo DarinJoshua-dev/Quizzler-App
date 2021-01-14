@@ -6,9 +6,7 @@
 
 ## What I created
 
-A quiz app that tests your general knowledge. As one of the most popular types of apps nowadays.
-
-Learnings' Courtesy: @londonappbrewery & @google
+A quiz app that tests your general knowledge. As one of the most popular genre of application nowadays, this app is filled with fun questions to quiz yourself.
 
 ## What I have learnt
 
@@ -19,3 +17,5 @@ Learnings' Courtesy: @londonappbrewery & @google
 - private and public modifiers in Dart.
 - How to use Dart lists.
 - The difference between var, const and final.
+
+>Learning Courtesy : London App Brewery 
