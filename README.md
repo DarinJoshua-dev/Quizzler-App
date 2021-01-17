@@ -1,11 +1,11 @@
 
 # Quizzler APP
 
-## Create an application by reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects using Flutter and Dart. 
+## Created an application by reviewing Stateful and Stateless Widgets as well as learning about the fundamental building blocks of Object Oriented Programming (OOP) - Classes and Objects using flutter and dart. 
 
 ### What I created
 
-A quiz app that tests your general knowledge. As one of the most popular genre of application nowadays, this app is filled with fun questions to quiz yourself.
+A interesting quiz app that tests your general knowledge. As one of the most popular genre of application nowadays, this app is filled with fun questions to quiz yourself.
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/quizzler-demo.gif)
 
